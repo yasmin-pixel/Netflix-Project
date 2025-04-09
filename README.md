@@ -10,6 +10,8 @@ This project serves as a portfolio piece demonstrating skills in data analysis, 
 ##   Key Visualisation: Netflix Content Trends
 
 The visualizations within this project summarize key trends in Netflix's content.
+![image](https://github.com/user-attachments/assets/d8d05c78-0a8c-4293-a2e4-9ea3f33c0cf2)
+
 
 * **Content Type Distribution:** Distribution of Movies and TV Shows. 
 * **Top 5 Countries by Titles:** Geographic distribution of content production. 
